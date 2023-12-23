@@ -2,6 +2,7 @@
 * go 学习
 * [go](go/)
 * [go指南](go/guide)
+* [minio学习](go/minio)
 * [goMap操作](go/mapOp)
 
 * crm 构建过程
