@@ -30,3 +30,7 @@ https://developer.work.weixin.qq.com/document/path/91335
 当前的问题在于  企业微信这里的验证开发是不是需要服务在一个外网可跳转到服务
 
 
+* 最近发现  sso 单点登录其实是 第三方登录的概念   客户要求的可能是不用去点击登录 应当是 OAuth2的概念
+
+
+![OAuth2](https://cdn.jsdelivr.net/gh/sigam-Zq/picStore/docs20231224122019.png)
